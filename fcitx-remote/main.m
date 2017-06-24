@@ -19,7 +19,7 @@
 #define ACTIVE_STR "2"
 
 #ifndef US_KEYBOARD_LAYOUT
-#define US_KEYBOARD_LAYOUT @"com.apple.keylayout.US"
+#define US_KEYBOARD_LAYOUT @"com.apple.keylayout.ABC"
 #endif
 
 #ifndef CHINESE_KEYBOARD_LAYOUT
