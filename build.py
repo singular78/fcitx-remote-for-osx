@@ -16,6 +16,7 @@ InputMethod = {
     'qq-wubi': 'com.tencent.inputmethod.QQInput.QQWubi',
     'squirrel-rime': 'im.rime.inputmethod.Squirrel.Rime',
     'osx-pinyin': 'com.apple.inputmethod.SCIM.ITABC',
+    'osx-shuangpin': 'com.apple.inputmethod.SCIM.Shuangpin',
     'osx-wubi': 'com.apple.inputmethod.SCIM.WBX',
     'qingg': 'com.aodaren.inputmethod.Qingg',
     'general': 'GENERAL'
